@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ojas Chatur</h1>
 <h3 align="center">Future Developer, I suppose 😎</h3>
 <img align="right" alt="Coding" width="400" src="Github.avif">
-<p align="left"> <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w" alt="ojaschatur" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
