@@ -11,7 +11,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=ojaschatur=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ojaschatur&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaschatur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![An image of @ojaschatur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ojaschatur)](https://holopin.io/@ojaschatur)
