@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design.png" alt="HTML5" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">  </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ojaschatur&theme=tokyonight&hide_border=true)<br/>
 [![An image of @ojaschatur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ojaschatur)](https://holopin.io/@ojaschatur)
