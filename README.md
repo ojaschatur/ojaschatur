@@ -9,7 +9,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,jquery,bootstrap)](https://skillicons.dev) </p>
+<p>
+ 
+ ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap)
+ 
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ojaschatur&theme=tokyonight&hide_border=true)<br/>
+
 [![An image of @ojaschatur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ojaschatur)](https://holopin.io/@ojaschatur)
