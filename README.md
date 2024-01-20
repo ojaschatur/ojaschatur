@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Frick-and-morty-24%2F&psig=AOvVaw0aGYS3cXBfCU3r0ncR4pcb&ust=1705855586038000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiJ8ba17IMDFQAAAAAdAAAAABAK)](https://ojaschatur.io)
+![05uhd2ihjs671](https://github.com/ojaschatur/ojaschatur/assets/119161343/dabe36d6-139b-4dd0-a544-4eb9fea61ab4)
 <h1 align="center">Hi 👋, I'm Ojas Chatur</h1>
 <h3 align="center">Future Developer, I suppose 😶‍🌫️ </h3>
 <img alt="Coding" src="https://i.gifer.com/6tXM.gif">
