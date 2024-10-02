@@ -1,7 +1,6 @@
 ![05uhd2ihjs671](https://github.com/ojaschatur/ojaschatur/assets/119161343/dabe36d6-139b-4dd0-a544-4eb9fea61ab4)
 <h1 align="center">Hi 👋, I'm Ojas Chatur</h1>
 <h3 align="center">Future Developer, I suppose 😶‍🌫️ </h3>
-<img alt="Coding" src="https://i.gifer.com/6tXM.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
