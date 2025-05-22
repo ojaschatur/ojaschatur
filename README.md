@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
  
- ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tensorflow,py,c,cpp,java,docker,mongodb,postgres,postman,nodejs,npm,figma,gcp,git,github,,gitlab,go,tailwind,ae,ps,ai,pr,anaconda,appwrite,arduino,autocad)
+ ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tensorflow,py,c,cpp,java,docker,mongodb,postgres,postman,nodejs,npm,figma,gcp,git,github,gitlab,go,tailwind,ae,ps,ai,pr,anaconda,appwrite,arduino,autocad)
  
 </p>
 
